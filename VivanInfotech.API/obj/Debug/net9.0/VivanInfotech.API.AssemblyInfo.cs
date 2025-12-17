@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VivanInfotech.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6928111ff8cb370c2802be7093fb65c869b95a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5814f05223f54d23a7cce5207404a6e3a223a45")]
 [assembly: System.Reflection.AssemblyProductAttribute("VivanInfotech.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VivanInfotech.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
