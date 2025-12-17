@@ -131,3 +131,4 @@ C:\Users\om\Desktop\VivanInfo\VivanInfotech.API\bin\Debug\net9.0\VivanInfotech.A
 C:\Users\om\Desktop\VivanInfo\VivanInfotech.API\obj\Debug\net9.0\VivanInfotech.API.genruntimeconfig.cache
 C:\Users\om\Desktop\VivanInfo\VivanInfotech.API\obj\Debug\net9.0\ref\VivanInfotech.API.dll
 C:\Users\om\Desktop\VivanInfo\VivanInfotech.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\om\Desktop\VivanInfo\VivanInfotech.API\obj\Debug\net9.0\VivanInfotech.API.sourcelink.json
